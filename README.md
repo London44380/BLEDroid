@@ -1,6 +1,5 @@
 <img src="https://img.shields.io/badge/Android%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 <img width="1651" height="1969" alt="imagee" src="https://github.com/user-attachments/assets/a334ab3a-34b3-4803-a83d-084865a9868d" />
 
